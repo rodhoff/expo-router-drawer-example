@@ -1,0 +1,496 @@
+{   
+    "config" : {
+        "divinations" : 3
+    },
+    "en" : {
+        "cards" : [
+            {
+                "number" : 0,
+                "file" : "ar00.jpg",
+                "name" : "The Fool",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Time for new Beginnings. Trust the Universe and step up!"
+                    },
+                    {
+                        "advice" : "Take some breath and try to realize your surroundings. It is possible you are being too naive."
+                    },
+                    {
+                        "advice" : "Use the Idealism in the air at your favor, just do not exagerate or you may end up a bit lost."
+                    }
+                ]
+
+            },
+            {
+                "number" : 1,
+                "file" : "ar01.jpg",
+                "name" : "The Mage",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "You are dealing with the situation with Hability. Keep up the good work!"
+                    },
+                    {
+                        "advice" : "You are managing to get adapted to the situation quite well."
+                    },
+                    {
+                        "advice" : "You are going very well, but don't be overconfident, or you may ruin what you got!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 2,
+                "file" : "ar02.jpg",
+                "name" : "The High Priestess",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Occult matters are now being revealed. Read them wisely!"
+                    },
+                    {
+                        "advice" : "There are some higher misteries in the subject. But you are in position to access them."
+                    },
+                    {
+                        "advice" : "There is mistery in the situation, but don't be too gripped to it, or you may end up in too much fantasy."
+                    }
+                ]
+
+            },
+            {
+                "number" : 3,
+                "file" : "ar03.jpg",
+                "name" : "The Emperess",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Pleasure and Fertility are on the matter. Enjoy the good times!"
+                    },
+                    {
+                        "advice" : "You are attracting good things, and giving birth to good new things!"
+                    },
+                    {
+                        "advice" : "You feel good, but don't be too self indulgent."
+                    }
+                ]
+
+            },
+            {
+                "number" : 4,
+                "file" : "ar04.jpg",
+                "name" : "The Emperor",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Stability governs the matter. Realization is on its way!"
+                    },
+                    {
+                        "advice" : "You have got the decision power over the matter. Lead the way!"
+                    },
+                    {
+                        "advice" : "Things are stable, but inflexible. Keep walking, but try to be a bit more relaxed."
+                    }
+                ]
+
+            },
+            {
+                "number" : 5,
+                "file" : "ar05.jpg",
+                "name" : "The Hierophant",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Keep things the way the are traditionally done, and you will succeed!"
+                    },
+                    {
+                        "advice" : "Seek for formal orientation on the matter. Follow it, and you may succeed!"
+                    },
+                    {
+                        "advice" : "Don't be too intolerant with different values. This may cause things to became heavy for you."
+                    }
+                ]
+
+            },
+            {
+                "number" : 6,
+                "file" : "ar06.jpg",
+                "name" : "The Lovers",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "It's a good time for partnerships, either in love or the area in question!"
+                    },
+                    {
+                        "advice" : "It's your time to chose. Choose wisely, and you will make a good harvest!"
+                    },
+                    {
+                        "advice" : "Choose quickly, as it seems you have some indecision which hinders you..."
+                    }
+                ]
+
+            },
+            {
+                "number" : 7,
+                "file" : "ar07.jpg",
+                "name" : "The Chariot",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "A good advance is happening right now around this matter!"
+                    },
+                    {
+                        "advice" : "Follow the flow as you are being taken to a great spot!"
+                    },
+                    {
+                        "advice" : "Getting there, but for some things there are no comming back!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 8,
+                "file" : "ar08.jpg",
+                "name" : "The Strength",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "The circumstances require you to be controlled, but you've got all you need!"
+                    },
+                    {
+                        "advice" : "You have the strength to overcome the challenges you are facing."
+                    },
+                    {
+                        "advice" : "It's about time to domme this lion within you!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 9,
+                "file" : "ar09.jpg",
+                "name" : "The Hermit",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Get some time alone with your intuition, and you shall be enlightened!"
+                    },
+                    {
+                        "advice" : "Although it seems you're alone, it's just a time to touch the light. "
+                    },
+                    {
+                        "advice" : "Look towards the light, and it will soon end your loneliness!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 10,
+                "file" : "ar10.jpg",
+                "name" : "The Wheel of Fortune",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "The wind of change is blowing you forward!"
+                    },
+                    {
+                        "advice" : "Be prepared for changes soon. The balance will decide the results of it."
+                    },
+                    {
+                        "advice" : "Take into account that things are going to be different owards."
+                    }
+                ]
+
+            },
+            {
+                "number" : 11,
+                "file" : "ar11.jpg",
+                "name" : "The Justice",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Ballance is returning to the situation."
+                    },
+                    {
+                        "advice" : "All things are being put on their places!"
+                    },
+                    {
+                        "advice" : "Be careful as the justice keeps everything in balance, even yourself."
+                    }
+                ]
+
+            },
+            {
+                "number" : 12,
+                "file" : "ar12.jpg",
+                "name" : "The Hanged Man",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "It is a learning period you cannot run from."
+                    },
+                    {
+                        "advice" : "Stop trying to fight against things you have no control over."
+                    },
+                    {
+                        "advice" : "It is useless to try to escape the situation. Focus on something else."
+                    }
+                ]
+
+            },
+            {
+                "number" : 13,
+                "file" : "ar13.jpg",
+                "name" : "The Death",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Everything will transform from water to wine!"
+                    },
+                    {
+                        "advice" : "From now on, things will not be the same anynmore!"
+                    },
+                    {
+                        "advice" : "Prepare for a change which has no way back!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 14,
+                "file" : "ar14.jpg",
+                "name" : "The Temperance",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Things will cool down, and you will be able to feel the true vibes."
+                    },
+                    {
+                        "advice" : "Don't ignore your emotions, but be realist at the same time."
+                    },
+                    {
+                        "advice" : "Material and Emotional are getting aligned now."
+                    }
+                ]
+
+            },
+            {
+                "number" : 15,
+                "file" : "ar15.jpg",
+                "name" : "The Devil",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Now it's the time to prioritize your own will over anyone's else, without being disrespectful."
+                    },
+                    {
+                        "advice" : "Allow yourself to have some pleasure, but be careful not to harm others."
+                    },
+                    {
+                        "advice" : "If too much, hold yourself a bit, in order not to run over anyone else's will."
+                    }
+                ]
+
+            },
+            {
+                "number" : 16,
+                "file" : "ar16.jpg",
+                "name" : "The Tower",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Some things need first to be destroyed in order to form something far better."
+                    },
+                    {
+                        "advice" : "It's a catarse process which will clean up your sphere from all non-working stuff."
+                    },
+                    {
+                        "advice" : "The universe has set this time of difficulties, so you can transform into something better."
+                    }
+                ]
+
+            },
+            {
+                "number" : 17,
+                "file" : "ar17.jpg",
+                "name" : "The Star",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "The Universe is on your side, and supports your decisions!"
+                    },
+                    {
+                        "advice" : "There are external forces helping you onwards!"
+                    },
+                    {
+                        "advice" : "All is helping, but be careful not to live in hope alone."
+                    }
+                ]
+
+            },
+            {
+                "number" : 18,
+                "file" : "ar18.jpg",
+                "name" : "The Moon",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "The light you see it is not true. It is reflecting something occult."
+                    },
+                    {
+                        "advice" : "You are in a process to beat some illusions in your life."
+                    },
+                    {
+                        "advice" : "Seek the true light, and all hidden lies will finally pop out."
+                    }
+                ]
+
+            },
+            {
+                "number" : 19,
+                "file" : "ar19.jpg",
+                "name" : "The Sun",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Light shines upon you, rejoice and be happy!"
+                    },
+                    {
+                        "advice" : "Luck is on your side, just follow the light!"
+                    },
+                    {
+                        "advice" : "Everything will work fine, but too much light may leave one blind."
+                    }
+                ]
+
+            },
+            {
+                "number" : 20,
+                "file" : "ar20.jpg",
+                "name" : "The Judgement",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "The truth around the situation is being clearly revealed to everyone."
+                    },
+                    {
+                        "advice" : "It will become clear for you the results that sum up from what you've gone through."
+                    },
+                    {
+                        "advice" : "Each part will receive a fair share of retribution for what has been happening."
+                    }
+                ]
+
+            },
+            {
+                "number" : 21,
+                "file" : "ar21.jpg",
+                "name" : "The World",
+                "arcana" : "Major",
+                "divinate" : [
+                    { 
+                        "advice" :  "Grab your reward, not only in material things, but in all the experience you got so far."
+                    },
+                    {
+                        "advice" : "You have reached the goals set for you, and are ready for the next level!"
+                    },
+                    {
+                        "advice" : "The world is not at your feet, but do not be accomodate!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 22,
+                "file" : "cu02.jpg",
+                "name" : "2 of Cups",
+                "arcana" : "Minor",
+                "divinate" : [
+                    { 
+                        "advice" :  "There's fire and passion in the air. Can you feel the attraction?"
+                    },
+                    {
+                        "advice" : "There's harmony and partnership in the matter."
+                    },
+                    {
+                        "advice" : "New partnerships are available for you if you want."
+                    }
+                ]
+
+            },
+            {
+                "number" : 23,
+                "file" : "cu03.jpg",
+                "name" : "3 of Cups",
+                "arcana" : "Minor",
+                "divinate" : [
+                    { 
+                        "advice" :  "Fertility and Creativity are currently abundant!"
+                    },
+                    {
+                        "advice" : "Time for Joy and Cellebration for the firstfruits!"
+                    },
+                    {
+                        "advice" : "Rejoice and Party, but don't go over somebody else's line!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 24,
+                "file" : "cu04.jpg",
+                "name" : "4 of Cups",
+                "arcana" : "Minor",
+                "divinate" : [
+                    { 
+                        "advice" :  "Be careful not to focus only the negative points. You need motivation to advance!"
+                    },
+                    {
+                        "advice" : "Don't be ashamed of waiting a bit more until you are sure of your feelings."
+                    },
+                    {
+                        "advice" : "It's no use to set your feelings on what gives you no pleasure. Motivate yourself to advance!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 25,
+                "file" : "cu05.jpg",
+                "name" : "5 of Cups",
+                "arcana" : "Minor",
+                "divinate" : [
+                    { 
+                        "advice" :  "There's emotional deception. It's possible that you loose something you like."
+                    },
+                    {
+                        "advice" : "Although you are feeling down, with reasons, there is yet hope for realization."
+                    },
+                    {
+                        "advice" : "To overcome a loss is not easy. But seek for hope, and you'll win this battle!"
+                    }
+                ]
+
+            },
+            {
+                "number" : 26,
+                "file" : "cu06.jpg",
+                "name" : "6 of Cups",
+                "arcana" : "Minor",
+                "divinate" : [
+                    { 
+                        "advice" :  "There's emotional deception. It's possible that you loose something you like."
+                    },
+                    {
+                        "advice" : "Although you are feeling down, with reasons, there is yet hope for realization."
+                    },
+                    {
+                        "advice" : "To overcome a loss is not easy. But seek for hope, and you'll win this battle!"
+                    }
+                ]
+
+            }
+
+        ]
+    }
+}
