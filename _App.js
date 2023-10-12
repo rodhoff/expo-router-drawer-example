@@ -8,16 +8,15 @@ import {
   TouchableHighlight
 } from 'react-native';
 
-import { Link } from 'expo-router'
 
-import HomeScreen from './screens/HomeScreen'
+import HomeScreen from './app/HomeScreen'
 
 
 
 
 
 const App = () => (
-  <HomeScreen></HomeScreen>
+  <HomeScreen />
 );
 
 
