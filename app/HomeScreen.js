@@ -30,7 +30,7 @@ const HomeScreen = () => {
           title="Close drawer"
           onPress={() => drawer.current.closeDrawer()}
         />
-        <Link href="/screens/HomeScreen">Home</Link>
+        <Link href="/screens/HomeScreen" style={styles.navigationLink}>Home</Link>
       </View>
     );
   
@@ -66,6 +66,11 @@ const styles = StyleSheet.create({
     },
     navigationContainer: {
       backgroundColor: '#ecf0f1',
+    },
+    navigationLink: {
+      flex: 1,
+      padding: 8,
+      fontSize: 18,
     },
     paragraph: {
       padding: 16,
